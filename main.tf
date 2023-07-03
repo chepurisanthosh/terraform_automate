@@ -230,5 +230,3 @@ resource "aws_db_instance" "default" {
   availability_zone         = "us-east-2b"
   skip_final_snapshot       = true
 }
-     
-                                                                                                                                                 220,1         98
