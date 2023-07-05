@@ -1,8 +1,8 @@
 variable "access_key" {
-default = "AKIARQ22MT2VR23B5BW7"
+default = "AKIARQ22MT2VZH2CURUD"
 }
 
 
 variable "secret_key" {
-default = "P3YFZncuY9NkZk3dDu4TjT377EOvPZ1Wwp6/+XPK"
+default = "VZ/LutG/mOU0wvEu5JGD/VZ7ldPqhzhFOlxcxpVF"
 }
